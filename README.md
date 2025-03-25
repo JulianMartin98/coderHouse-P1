@@ -15,11 +15,11 @@
 
 ## Introducción <a name="inicio"></a>
 
-#### **Error:** Es una equivocación humana, normalmente en el análisis o desarrollo del software. Por ejemplo, un programador comete un error al escribir una fórmula incorrecta para calcular un descuento. Este error puede derivar en un problema en el código.
-#### **Defecto:** Es la manifestación del error en el software. Si el error no se detecta y corrige en la fase de desarrollo, se convierte en un defecto. Por ejemplo, debido al error en la fórmula, la aplicación calcula mal el descuento, provocando una diferencia en los precios finales.
-#### **Fallo:** Es la manifestación visible del defecto cuando el software se ejecuta, afectando la experiencia del usuario. Por ejemplo, cuando el usuario intenta aplicar el descuento, observa que el monto es incorrecto debido a la fórmula mal programada.
+#### ▫ **Error:** Es una equivocación humana, normalmente en el análisis o desarrollo del software. Por ejemplo, un programador comete un error al escribir una fórmula incorrecta para calcular un descuento. Este error puede derivar en un problema en el código.
+#### ▫ **Defecto:** Es la manifestación del error en el software. Si el error no se detecta y corrige en la fase de desarrollo, se convierte en un defecto. Por ejemplo, debido al error en la fórmula, la aplicación calcula mal el descuento, provocando una diferencia en los precios finales.
+#### ▫ **Fallo:** Es la manifestación visible del defecto cuando el software se ejecuta, afectando la experiencia del usuario. Por ejemplo, cuando el usuario intenta aplicar el descuento, observa que el monto es incorrecto debido a la fórmula mal programada.
 
-  ### Clasificación de Defectos y Criticidad
+  ### 📚 Clasificación de Defectos y Criticidad
 Los defectos en software pueden clasificarse en distintas categorías según su naturaleza y el impacto en el sistema. Además, la criticidad y urgencia de cada defecto son elementos clave en su clasificación y resolución, ya que determinan la prioridad de atención en el reporte.
 
 ## Tipos de Defectos
@@ -50,21 +50,21 @@ Son errores en la información mostrada que no están relacionados con la funcio
 **Urgencia:** Define la rapidez con la que debe solucionarse el defecto para evitar problemas mayores.
 
 
-## Defectos Detectados -  📦  <a name="defectos_detec"></a>
+## ❌ Defectos Detectados ❌   <a name="defectos_detec"></a>
 
 
-## Defectos Visuales -   📦   <a name="defecto_vis"></a>
-
-
-
-## Defectos en Componentes -   📦   <a name="defecto_comp"></a>
+## ❌ Defectos Visuales ❌   <a name="defecto_vis"></a>
 
 
 
-## Defectos en Contenido -   📦   <a name="defecto_cont"></a>
+## ❌ Defectos en Componentes ❌   <a name="defecto_comp"></a>
 
 
-## Defectos Disruptivos -   📦   <a name="defecto_dis"></a>
+
+## ❌ Defectos en Contenido ❌   <a name="defecto_cont"></a>
+
+
+## ❌ Defectos Disruptivos ❌   <a name="defecto_dis"></a>
 
 
 
