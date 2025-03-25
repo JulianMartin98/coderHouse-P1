@@ -24,7 +24,7 @@ Los defectos en software pueden clasificarse en distintas categorías según su 
 ## 1. Defectos Visuales:
 
 #### Afectan la apariencia o usabilidad del sistema, como diferencias entre el diseño planificado y el implementado.
-**Ejemplo:** #### Un botón de "Enviar" aparece desalineado o con un color incorrecto.
+**Ejemplo:** Un botón de "Enviar" aparece desalineado o con un color incorrecto.
 
 ## 2. Defectos en Componentes:
 
