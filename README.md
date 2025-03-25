@@ -53,7 +53,7 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 ## ❌❗ Defectos Detectados ❗❌   <a name="defectos_detec"></a>
 
-  ✅ A continuación se detallara los defectos detectados en la web seleccionada, acompañados de una imagen o gift de forma ilustrativa (según corresponda) para mas detalles e indicaciones para replicar dicho defecto mencionado.
+  ✅ A continuación se detallara los defectos detectados en la web seleccionada (https://petstore.octoperf.com/actions/Catalog.action), acompañados de una imagen o gift de forma ilustrativa (según corresponda) para mas detalles e indicaciones para replicar dicho defecto mencionado.
 
 ---
 
