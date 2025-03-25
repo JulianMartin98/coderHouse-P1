@@ -49,10 +49,13 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 **Urgencia:** Define la rapidez con la que debe solucionarse el defecto para evitar problemas mayores.
 
+---
 
 ## ❌❗ Defectos Detectados ❗❌   <a name="defectos_detec"></a>
 
   ✅ A continuación se detallara los defectos detectados en la web seleccionada, acompañados de una imagen o gift de forma ilustrativa (según corresponda) para mas detalles e indicaciones para replicar dicho defecto mencionado.
+
+---
 
 ### ❌ Defectos Visuales ❌   <a name="defecto_vis"></a>
   ❎ Diseño y contenido desproporcionado. La imagen central no ocupa toda la pantalla, no cuenta con un footer pegado al pie de página. Se observan bordes grises tanto por los lados como por debajo de la imagen central.
@@ -63,13 +66,13 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 <p align="center"><img src="https://github.com/user-attachments/assets/d09da927-2f6f-49de-ac20-87778294f89b" width="50%"/></p>
 
-***
+---
 
 ### ❌ Defectos en Componentes ❌   <a name="defecto_comp"></a>
 
 
 
-___
+---
 
 ### ❌ Defectos en Contenido ❌   <a name="defecto_cont"></a>
   ❎ La frase en la barra azul "Elevate you load-testing with OctoPerf!" tiene un error gramatical en inglés. Debería decir "Elevate your load-testing with OctoPerf!.
@@ -88,8 +91,8 @@ ___
   ### ❌ Defectos Disruptivos ❌   <a name="defecto_dis"></a>
   ❎ El registro de usuario se encuentra deshabilitado, impidiendo finalizar la compra de un "producto".
 
-  (COLOCAR REPLICA DE GIFT DEL ERROR)
-
+  
+---
 
 
 
