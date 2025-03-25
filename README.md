@@ -70,9 +70,13 @@ Son errores en la información mostrada que no están relacionados con la funcio
   ❎ La frase en la barra azul "Elevate you load-testing with OctoPerf!" tiene un error gramatical en inglés. Debería decir "Elevate your load-testing with OctoPerf!.
   
   ❎ Las imagenes utilizadas en las descripciones de perros no coincide con la raza que se ha seleccionado.
-  <p align="center"><img src="https://github.com/user-attachments/assets/8c13dc08-4341-4285-a977-38a39690ee19" width="50%"/></p>
+
+  
   <p align="center"><img src="https://github.com/user-attachments/assets/cf9c92e5-cfa6-4515-8914-89679ba70e41" width="50%"/></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/8c13dc08-4341-4285-a977-38a39690ee19" width="50%"/></p>
   <p align="center"><img src="https://github.com/user-attachments/assets/25735aa6-6e5f-4376-8fce-78abf3f88890" width="50%"/></p>
+
+
 
 
 ### ❌ Defectos Disruptivos ❌   <a name="defecto_dis"></a>
