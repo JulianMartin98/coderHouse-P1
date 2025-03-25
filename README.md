@@ -3,9 +3,10 @@
 </div>
 
 
-## 📃 Listado de Errores - Indice 📃
+## 📃 Indice 📃
 * [Introducción](#inicio)
-* [1 - Defectos Visuales](#defecto_visual)
+* [ Defectos Detectados ](#defectos_detec)
+* [1 - Defectos Visuales](#defecto_vis)
 * [2 - Defectos en Componentes](#defecto_comp)
 * [3 - Defectos de Contenido](#defecto_cont)
 * [4 - Defectos Disruptivos](#defecto_dis)
@@ -47,3 +48,27 @@ Son errores en la información mostrada que no están relacionados con la funcio
 **Ejemplo:** Un defecto crítico puede bloquear el acceso de los usuarios a funciones clave.
 
 **Urgencia:** Define la rapidez con la que debe solucionarse el defecto para evitar problemas mayores.
+
+
+## Defectos Detectados -  📦  <a name="defectos_detec"></a>
+
+
+## Defectos Visuales -   📦   <a name="defecto_vis"></a>
+
+
+
+## Defectos en Componentes -   📦   <a name="defecto_comp"></a>
+
+
+
+## Defectos en Contenido -   📦   <a name="defecto_cont"></a>
+
+
+## Defectos Disruptivos -   📦   <a name="defecto_dis"></a>
+
+
+
+
+
+
+
