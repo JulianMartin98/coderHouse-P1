@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/f7113733-71e4-4085-a8ea-2da9c5bcfd24)<div align="center">
   <h1 align="center">  # CoderHouse - Primera Práctica  </h1> <a name="inicio"></a>
 </div>
 
@@ -51,21 +51,27 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 
 ## ❌ Defectos Detectados ❌   <a name="defectos_detec"></a>
+  ❎ Diseño y contenido desproporcionado. La imagen central no ocupa toda la pantalla, no cuenta con un footer pegado al pie de página. Se observan bordes grises tanto por los lados como por debajo de la imagen central.
+  ❎ El cuadro de búsqueda tiene un diseño deficiente. El campo de entrada es muy pequeño y desproporcionado con respecto al botón "Search", lo que puede afectar la experiencia del usuario.
+
+
+https://github.com/user-attachments/assets/d09da927-2f6f-49de-ac20-87778294f89b
+
 
 
 ## ❌ Defectos Visuales ❌   <a name="defecto_vis"></a>
-
+  ❎
 
 
 ## ❌ Defectos en Componentes ❌   <a name="defecto_comp"></a>
-
+  ❎
 
 
 ## ❌ Defectos en Contenido ❌   <a name="defecto_cont"></a>
-
+  ❎
 
 ## ❌ Defectos Disruptivos ❌   <a name="defecto_dis"></a>
-
+  ❎
 
 
 
