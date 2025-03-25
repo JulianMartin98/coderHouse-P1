@@ -92,8 +92,7 @@ Son errores en la información mostrada que no están relacionados con la funcio
   ❎ El registro de usuario se encuentra deshabilitado, impidiendo finalizar la compra de un "producto".
 
   
- <p align="center"> <img src="https://github.com/user-attachments/assets/be49c75a-e8a6-4227-9ecb-f2f8032d7bcc.gif" /> </p>
-
+ <img align="center" src="https://github.com/user-attachments/assets/be49c75a-e8a6-4227-9ecb-f2f8032d7bcc." />
   
 ---
 
