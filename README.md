@@ -63,8 +63,13 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 <p align="center"><img src="https://github.com/user-attachments/assets/d09da927-2f6f-49de-ac20-87778294f89b" width="50%"/></p>
 
+***
+
 ### ❌ Defectos en Componentes ❌   <a name="defecto_comp"></a>
 
+
+
+___
 
 ### ❌ Defectos en Contenido ❌   <a name="defecto_cont"></a>
   ❎ La frase en la barra azul "Elevate you load-testing with OctoPerf!" tiene un error gramatical en inglés. Debería decir "Elevate your load-testing with OctoPerf!.
@@ -78,14 +83,12 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 
 
+---
 
-<div>
   ### ❌ Defectos Disruptivos ❌   <a name="defecto_dis"></a>
   ❎ El registro de usuario se encuentra deshabilitado, impidiendo finalizar la compra de un "producto".
 
   (COLOCAR REPLICA DE GIFT DEL ERROR)
-
-</div>
 
 
 
