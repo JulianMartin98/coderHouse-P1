@@ -52,6 +52,7 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 ## ❌ Defectos Detectados ❌   <a name="defectos_detec"></a>
   ❎ Diseño y contenido desproporcionado. La imagen central no ocupa toda la pantalla, no cuenta con un footer pegado al pie de página. Se observan bordes grises tanto por los lados como por debajo de la imagen central.
+  
   ❎ El cuadro de búsqueda tiene un diseño deficiente. El campo de entrada es muy pequeño y desproporcionado con respecto al botón "Search", lo que puede afectar la experiencia del usuario.
 
 
