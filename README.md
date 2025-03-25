@@ -50,28 +50,29 @@ Son errores en la información mostrada que no están relacionados con la funcio
 **Urgencia:** Define la rapidez con la que debe solucionarse el defecto para evitar problemas mayores.
 
 
-## ❌ Defectos Detectados ❌   <a name="defectos_detec"></a>
+## ❌❗ Defectos Detectados ❗❌   <a name="defectos_detec"></a>
+
+
+### ❌ Defectos Visuales ❌   <a name="defecto_vis"></a>
   ❎ Diseño y contenido desproporcionado. La imagen central no ocupa toda la pantalla, no cuenta con un footer pegado al pie de página. Se observan bordes grises tanto por los lados como por debajo de la imagen central.
   
   ❎ El cuadro de búsqueda tiene un diseño deficiente. El campo de entrada es muy pequeño y desproporcionado con respecto al botón "Search", lo que puede afectar la experiencia del usuario.
 
+  ❎Los colores de fuente utilizados en el footer (Azul Oscuro) se pierden y dificultan tanto al usuario como al product Owner la lectura del mismo.
+
+  ✅ A continuación se brinda una imagen ilustrativa de los errores mencionados anteriormente:
+  
 
 <p align="center"><img src="https://github.com/user-attachments/assets/d09da927-2f6f-49de-ac20-87778294f89b" width="50%"/></p>
 
-
-
-## ❌ Defectos Visuales ❌   <a name="defecto_vis"></a>
+### ❌ Defectos en Componentes ❌   <a name="defecto_comp"></a>
   ❎
 
 
-## ❌ Defectos en Componentes ❌   <a name="defecto_comp"></a>
+### ❌ Defectos en Contenido ❌   <a name="defecto_cont"></a>
   ❎
 
-
-## ❌ Defectos en Contenido ❌   <a name="defecto_cont"></a>
-  ❎
-
-## ❌ Defectos Disruptivos ❌   <a name="defecto_dis"></a>
+### ❌ Defectos Disruptivos ❌   <a name="defecto_dis"></a>
   ❎
 
 
