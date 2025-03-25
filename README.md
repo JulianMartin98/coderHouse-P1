@@ -52,6 +52,7 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 ## ❌❗ Defectos Detectados ❗❌   <a name="defectos_detec"></a>
 
+  ✅ A continuación se detallara los defectos detectados en la web seleccionada, acompañados de una imagen o gift de forma ilustrativa (según corresponda) para mas detalles e indicaciones para replicar dicho defecto mencionado.
 
 ### ❌ Defectos Visuales ❌   <a name="defecto_vis"></a>
   ❎ Diseño y contenido desproporcionado. La imagen central no ocupa toda la pantalla, no cuenta con un footer pegado al pie de página. Se observan bordes grises tanto por los lados como por debajo de la imagen central.
@@ -60,20 +61,25 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
   ❎Los colores de fuente utilizados en el footer (Azul Oscuro) se pierden y dificultan tanto al usuario como al product Owner la lectura del mismo.
 
-  ✅ A continuación se brinda una imagen ilustrativa de los errores mencionados anteriormente:
-  
-
 <p align="center"><img src="https://github.com/user-attachments/assets/d09da927-2f6f-49de-ac20-87778294f89b" width="50%"/></p>
 
 ### ❌ Defectos en Componentes ❌   <a name="defecto_comp"></a>
-  ❎
+  ❎ Al hacer click en cualquier producto detallado en una tabla (independientemente de la categoria en la que se encuentra detallado) la pagina nos redirecciona a nuestro "Carrito de Compras", impidiendo al usuario obtener mas detalles e información del "producto".
 
 
 ### ❌ Defectos en Contenido ❌   <a name="defecto_cont"></a>
-  ❎
+  ❎ La frase en la barra azul "Elevate you load-testing with OctoPerf!" tiene un error gramatical en inglés. Debería decir "Elevate your load-testing with OctoPerf!.
+  ❎ Las imagenes utilizadas en las descripciones de perros no coincide con la raza que se ha seleccionado.
+
+  <p align="center"><img src="https://github.com/user-attachments/assets/cf9c92e5-cfa6-4515-8914-89679ba70e41" width="50%"/></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/25735aa6-6e5f-4376-8fce-78abf3f88890" width="50%"/></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/8c13dc08-4341-4285-a977-38a39690ee19" width="50%"/></p>
+
 
 ### ❌ Defectos Disruptivos ❌   <a name="defecto_dis"></a>
-  ❎
+  ❎ El registro de usuario se encuentra deshabilitado, impidiendo finalizar la compra de un "producto".
+
+  (COLOCAR REPLICA DE GIFT DEL ERROR)
 
 
 
