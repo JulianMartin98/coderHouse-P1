@@ -1,8 +1,6 @@
 <div align="center">
 # CoderHouse - Primera Práctica
-
-
-
+</div>
 
 
 ## 📃 Listado de Errores - Indice 📃
