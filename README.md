@@ -79,12 +79,13 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 
 
-### ❌ Defectos Disruptivos ❌   <a name="defecto_dis"></a>
+<div>
+  ### ❌ Defectos Disruptivos ❌   <a name="defecto_dis"></a>
   ❎ El registro de usuario se encuentra deshabilitado, impidiendo finalizar la compra de un "producto".
 
   (COLOCAR REPLICA DE GIFT DEL ERROR)
 
-
+</div>
 
 
 
