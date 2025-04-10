@@ -101,3 +101,26 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 -----
 
+
+
+
+
+
+### 🧪 Casos de Prueba Ejecutados
+
+| ID   | Nombre                                                              | Prioridad | Estado   |
+|------|---------------------------------------------------------------------|-----------|----------|
+| C-01 | Búsqueda de producto válido                                         | Alta      | Exitoso  |
+| C-02 | Navegar por categorías                                              | Media     | Exitoso  |
+| C-03 | Registro de usuario                                                 | Alta      | Exitoso  |
+| C-04 | Login con datos válidos                                             | Alta      | Exitoso  |
+| C-05 | Agregar producto al carrito                                         | Alta      | Exitoso  |
+| C-06 | Búsqueda de producto / mascota inexistente                          | Media     | Exitoso  |
+| C-07 | Registro con campos vacíos                                          | Alta      | Fallido  |
+| C-08 | Login con datos inválidos / vacíos                                  | Alta      | Fallido  |
+| C-09 | Búsqueda con caracteres especiales (/*-+%,etc)                      | Alta      | Fallido  |
+| C-10 | Modificar cantidad en carrito con caracteres inválidos              | Alta      | Fallido  |
+| C-11 | Modificar cantidad en carrito                                       | Alta      | Fallido  |
+| C-12 | Completar compra                                                    | Alta      | Fallido  |
+
+
