@@ -11,7 +11,9 @@
 * [ Defectos Detectados ](#defectos_detec)
 * [1 - Defectos Visuales](#defecto_vis)
 * [2 - Defectos de Contenido](#defecto_cont)
-* [3 - Tecnologías Utilizadas](#tecnologias)
+* [3 - Reporte de Pruebas](#reporte)
+* [4 - Conclusiones](#conclusiones)
+* [5 - Tecnologías Utilizadas](#tecnologias)
 
 
 
@@ -83,6 +85,37 @@ Son errores en la información mostrada que no están relacionados con la funcio
   <p align="center"><img src="https://github.com/user-attachments/assets/8c13dc08-4341-4285-a977-38a39690ee19" width="50%"/></p>
   <p align="center"><img src="https://github.com/user-attachments/assets/25735aa6-6e5f-4376-8fce-78abf3f88890" width="50%"/></p>
 
+---
+
+  <h2 align="center"> 🧪📈  Reporte de Pruebas 📈🧪  </h2> <a name="reporte"></a>
+
+  ###  Casos de Prueba Ejecutados 
+
+| ID   | Nombre                                                              | Prioridad | Estado   |
+|------|---------------------------------------------------------------------|-----------|----------|
+| C-01 | Búsqueda de producto válido                                         | Alta      | Exitoso  |
+| C-02 | Navegar por categorías                                              | Media     | Exitoso  |
+| C-03 | Registro de usuario                                                 | Alta      | Exitoso  |
+| C-04 | Login con datos válidos                                             | Alta      | Exitoso  |
+| C-05 | Agregar producto al carrito                                         | Alta      | Exitoso  |
+| C-06 | Búsqueda de producto / mascota inexistente                          | Media     | Exitoso  |
+| C-07 | Registro con campos vacíos                                          | Alta      | Fallido  |
+| C-08 | Login con datos inválidos / vacíos                                  | Alta      | Fallido  |
+| C-09 | Búsqueda con caracteres especiales (/*-+%,etc)                      | Alta      | Fallido  |
+| C-10 | Modificar cantidad en carrito con caracteres inválidos              | Alta      | Fallido  |
+| C-11 | Modificar cantidad en carrito                                       | Alta      | Fallido  |
+| C-12 | Completar compra                                                    | Alta      | Fallido  |
+
+
+
+
+### 🚨 Defectos Encontrados 🚨  
+
+| ID   | Nombre o Título                                                                 | Tipo Defecto  | Criticidad |
+|------|----------------------------------------------------------------------------------|---------------|------------|
+| 001  | Las imágenes utilizadas en las descripciones no coinciden con la mascota real   | Visual        | Baja       |
+| 002  | El registro no informa al usuario en caso de error o campo vacío                | Componente    | Alta       |
+| 003  | Se permite completar compra con datos falsos                                    | Disruptivos   | Alta       |
 
 
 ---
@@ -101,26 +134,5 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 -----
 
-
-
-
-
-
-### 🧪 Casos de Prueba Ejecutados
-
-| ID   | Nombre                                                              | Prioridad | Estado   |
-|------|---------------------------------------------------------------------|-----------|----------|
-| C-01 | Búsqueda de producto válido                                         | Alta      | Exitoso  |
-| C-02 | Navegar por categorías                                              | Media     | Exitoso  |
-| C-03 | Registro de usuario                                                 | Alta      | Exitoso  |
-| C-04 | Login con datos válidos                                             | Alta      | Exitoso  |
-| C-05 | Agregar producto al carrito                                         | Alta      | Exitoso  |
-| C-06 | Búsqueda de producto / mascota inexistente                          | Media     | Exitoso  |
-| C-07 | Registro con campos vacíos                                          | Alta      | Fallido  |
-| C-08 | Login con datos inválidos / vacíos                                  | Alta      | Fallido  |
-| C-09 | Búsqueda con caracteres especiales (/*-+%,etc)                      | Alta      | Fallido  |
-| C-10 | Modificar cantidad en carrito con caracteres inválidos              | Alta      | Fallido  |
-| C-11 | Modificar cantidad en carrito                                       | Alta      | Fallido  |
-| C-12 | Completar compra                                                    | Alta      | Fallido  |
 
 
