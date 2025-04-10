@@ -89,9 +89,9 @@ Son errores en la información mostrada que no están relacionados con la funcio
 ## Tecnologías Utilizadas 🛠️  <a name="tecnologias"></a>
 
   ![image]({https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white
-})
-  <img src="{(https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
-)}" />
+}})
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
+"/>
   <img src="{(https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 )}" />
   <img src="{https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white}" />
