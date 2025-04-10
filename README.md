@@ -7,10 +7,8 @@
 * [Introducción](#inicio)
 * [ Defectos Detectados ](#defectos_detec)
 * [1 - Defectos Visuales](#defecto_vis)
-* [2 - Defectos en Componentes](#defecto_comp)
-* [3 - Defectos de Contenido](#defecto_cont)
-* [4 - Defectos Disruptivos](#defecto_dis)
-* [5 - Tecnologías Utilizadas](#tecnologias)
+* [2 - Defectos de Contenido](#defecto_cont)
+* [3 - Tecnologías Utilizadas](#tecnologias)
 
 
 
