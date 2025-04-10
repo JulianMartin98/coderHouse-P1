@@ -89,6 +89,9 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
   <h2 align="center"> 🧪📈  Reporte de Pruebas 📈🧪  </h2> <a name="reporte"></a>
 
+
+  <div align="center">
+
   ###  Casos de Prueba Ejecutados 
 
 | ID   | Nombre                                                              | Prioridad | Estado   |
@@ -109,6 +112,7 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 
 
+
 ### 🚨 Defectos Encontrados 🚨  
 
 | ID   | Nombre o Título                                                                 | Tipo Defecto  | Criticidad |
@@ -116,6 +120,9 @@ Son errores en la información mostrada que no están relacionados con la funcio
 | 001  | Las imágenes utilizadas en las descripciones no coinciden con la mascota real   | Visual        | Baja       |
 | 002  | El registro no informa al usuario en caso de error o campo vacío                | Componente    | Alta       |
 | 003  | Se permite completar compra con datos falsos                                    | Disruptivos   | Alta       |
+
+</div>
+
 
 
 ---
