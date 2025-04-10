@@ -94,10 +94,7 @@ Son errores en la información mostrada que no están relacionados con la funcio
     <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
-    <img src="https://github.com/JulianMartin98/coderHouse-P1/blob/main/LogoCoderHouse.jpg" height="28"/>
     <img src="https://github.com/JulianMartin98/coderHouse-P1/blob/main/CoderHouseV2.png" height="28"/>
-    <img src="https://github.com/JulianMartin98/coderHouse-P1/blob/main/CoderHouseV3.png" height="28"/>
-    <img src="https://github.com/JulianMartin98/coderHouse-P1/blob/main/CoderHouseV4.jpg" height="28"/>
 </div>
 
 
