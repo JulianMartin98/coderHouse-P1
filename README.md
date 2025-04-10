@@ -125,7 +125,7 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 <p></p>
 
-## <p> ✍ Conclusiones: ✍ </p>    <a name="conclusiones"></a>
+## <p> ✍ Conclusiones ✍ </p>    <a name="conclusiones"></a>
 El 60% de las pruebas fueron positivas, para ejecutar las pruebas se utilizó el material teórico y lo
 aprendido en clase por CoderHouse.
 Se reportan 3 bugs de distintos tipos (visual, componente y disruptivos) siendo el ultimo uno de los mas
