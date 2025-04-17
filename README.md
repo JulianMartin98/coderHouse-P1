@@ -70,10 +70,10 @@ Son errores en la información mostrada que no están relacionados con la funcio
 
 <p align="center"><img src="https://github.com/user-attachments/assets/d09da927-2f6f-49de-ac20-87778294f89b" width="50%"/></p>
 
----
+----
 
 
----
+----
 
 ### ❌ Defectos en Contenido ❌   <a name="defecto_cont"></a>
   ❎ La frase en la barra azul "Elevate you load-testing with OctoPerf!" tiene un error gramatical en inglés. Debería decir "Elevate your load-testing with OctoPerf!.
