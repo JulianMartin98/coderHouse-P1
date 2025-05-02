@@ -171,6 +171,11 @@ A continuación, se realizarán **4 pruebas no funcionales** con **Lighthouse**,
 4. **SEO**  
    Analiza si la página está optimizada para motores de búsqueda, verificando el uso adecuado de etiquetas, metadatos y estructura del contenido.
 
+  A Continuacion se mostrarán dos imagenes utilizadas en los 4 casos de prueba tanto como en mobile, como en deskopt (escritorio).
+
+  <p align="center"><img src="https://github.com/user-attachments/assets/07e45671-7fa6-47bc-947d-b4259e2918ad" width="50%"/></p>
+  <p align="center"><img src="https://github.com/user-attachments/assets/5bffdd5e-e704-40ac-b62a-5ae9df0dab2e" width="50%"/></p>
+
 
 ---
 
