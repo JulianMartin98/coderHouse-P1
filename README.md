@@ -180,13 +180,15 @@ A continuación, se realizarán **4 pruebas no funcionales** con **Lighthouse**,
 
 ## <p> ✍ Conclusiones de las Stress-Test ✍ </p>    <a name="stress_test"></a>
 
-## Conclusión MOBILE: En esta versión del sitio evaluado, el rendimiento (Performance) es excelente con un 98%,
+## 📲 Conclusión MOBILE 📲
+En esta versión del sitio evaluado, el rendimiento (Performance) es excelente con un 98%,
 pero hay debilidades importantes en Accesibilidad (53%) y SEO (50%), lo cual puede afectar la usabilidad y visibilidad
 en buscadores. Las Buenas Prácticas (82%) están en un nivel aceptable, aunque aún hay margen de mejora. En
 general, el sitio es rápido, pero necesita ajustes técnicos y de accesibilidad para ofrecer una mejor experiencia
 integral.
 
-## Conclusión DESKOPT: En la versión de Deskopt (Escritorio), el sitio muestra un rendimiento (Performance)
+## 🖥 Conclusión DESKOPT 🖥 
+En la versión de Deskopt (Escritorio), el sitio muestra un rendimiento (Performance)
 sobresaliente (99,75%) y buenas prácticas (Best-Practices) sólidas (89%), lo que indica una base técnica eficiente. Sin
 embargo, la accesibilidad (Accessibility) (53%) y el SEO (50%) siguen siendo bajos, lo que puede limitar la experiencia
 de usuarios con discapacidades y reducir la visibilidad en motores de búsq
