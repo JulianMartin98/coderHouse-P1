@@ -13,7 +13,8 @@
 * [2 - Defectos de Contenido](#defecto_cont)
 * [3 - Reporte de Pruebas](#reporte)
 * [4 - Conclusiones del Reporte](#conclusiones_rep)
-* [5 - Tecnologías Utilizadas](#tecnologias)
+* [5 - Stress-Test](#stress_test)
+* [6 - Tecnologías Utilizadas](#tecnologias)
 
 
 
@@ -131,6 +132,44 @@ aprendido en clase por CoderHouse.
 Se reportan 3 bugs de distintos tipos (visual, componente y disruptivos) siendo el ultimo uno de los mas
 importantes y con una criticidad muy alta.
 
+
+
+---
+
+<h2 align="center">🧪📈 Pruebas de Stress 📈🧪</h2> <a name="stress_test"></a>
+
+
+## ✏ Introducción
+
+Las pruebas de estrés se aplican para evaluar la estabilidad de un sistema bajo condiciones extremas. Estas pruebas ayudan a identificar el punto de fallo del sistema al sobrecargarlo con solicitudes más allá de su capacidad habitual.
+
+Se realizan en momentos de alta demanda o en eventos especiales, como el **Black Friday** o **transmisiones masivas**, para garantizar que el sistema pueda manejar picos sin fallar. Esto permite ajustar la infraestructura y prever posibles mejoras en la capacidad del sistema.
+
+---
+
+## 🎯 Objetivos 🎯
+
+A continuación, se realizarán **4 pruebas no funcionales** con **Lighthouse**, tanto en modo **Desktop (Escritorio)** como **Mobile**, obteniendo un promedio de resultados entre ambas modalidades.
+
+- **Sitio probado:** [https://petstore.octoperf.com/actions/Catalog.action](https://petstore.octoperf.com/actions/Catalog.action)  
+- **Herramienta utilizada:** [Google Lighthouse](https://es.semrush.com/blog/como-utilizar-google-lighthouse/)  
+- **Dispositivo:** Mobile y Desktop
+
+---
+
+### 🔍 Tipos de Pruebas 🔍
+
+1. **Performance**  
+   Mide la velocidad de carga y respuesta del sitio, evaluando aspectos como el tiempo de renderizado y la carga de recursos.
+
+2. **Accessibility**  
+   Evalúa qué tan usable es el sitio para personas con discapacidades, considerando elementos como contraste, etiquetas y navegación con teclado.
+
+3. **Best Practices**  
+   Revisa si el sitio sigue recomendaciones de desarrollo web moderno, como el uso seguro de APIs y la ausencia de errores de JavaScript.
+
+4. **SEO**  
+   Analiza si la página está optimizada para motores de búsqueda, verificando el uso adecuado de etiquetas, metadatos y estructura del contenido.
 
 
 ---
